@@ -52,7 +52,7 @@ int* getAddress(int* p)
     // TODO 1: return p
 
 
-    return nullptr; // placeholder -- replace this line
+    return p; // placeholder -- replace this line
 }
 
 // ------------------------------------------------------------
